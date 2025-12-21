@@ -1,4 +1,4 @@
-Cuistomizações:
+Customizações:
 
 1. Tema de boot (plymouth)
 2. Wallpaper de tela de login
